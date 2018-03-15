@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fortnite Chest Map</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9085519767723102/8741671246</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9085519767723102/2448531537</string>
+    <string name="package_name">com.pentasounds.fortnitechestmap</string>
+    <string name="link_zur_app">https://play.google.com/store/apps/details?id=com.pentasounds.fortnitechestmap</string>
+    <string name="firstrun">Use the switch in the upper left corner to show and hide chests.</string>
+</resources>

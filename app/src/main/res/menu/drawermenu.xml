@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="10dp">
+
+
+
+
+    <item android:title="Share app"
+        android:id="@+id/teilen"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/shareimg" />
+
+
+    <item android:title="Rate app"
+        android:id="@+id/rate"
+        android:icon="@drawable/rate" />
+
+
+    <item
+        android:id="@+id/report"
+        android:icon="@drawable/report"
+        android:title="Report missing chest" />
+
+    <item android:title="More from us">
+        <menu>
+            <item
+                android:id="@+id/ninjasoundboard"
+                android:icon="@drawable/ninjas"
+                android:title="NinjasHyper Fortnite Soundboard"/>
+
+            <item
+                android:id="@+id/mythsoundboard"
+                android:icon="@drawable/myth"
+                android:title="TSM_Myth Fortnite Soundboard"/>
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/instagram"
+                android:icon="@drawable/instaicon"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/email"
+                android:icon="@drawable/email"
+                android:title="E-Mail" />
+
+
+
+        </menu>
+    </item>
+
+</menu>
